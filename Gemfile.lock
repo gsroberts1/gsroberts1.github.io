@@ -267,7 +267,6 @@ PLATFORMS
   x64-unknown
 
 DEPENDENCIES
-  eventmachine
   github-pages
   hawkins
   jekyll-feed
