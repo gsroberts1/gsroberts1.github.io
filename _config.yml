@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Grant Roberts TEST2"
+title                    : "Grant Roberts"
 title_separator          : "-"
 name                     : &name "Grant Roberts"
-description              : &description ""
+description              : &description "PhD Candidate in Medical Physics"
 url                      : "https://gsroberts1.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -21,7 +21,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "staticman" #"disqus" , "discourse", "facebook", "google-plus", "staticman", "custom", false (default)
   disqus:
     shortname            :
   discourse:
@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-232485730-1 #check if this works without quotes
 
 
 # Site Author
@@ -85,10 +85,10 @@ author:
   bio              : "Specializing in clinical applications of phase-contrast MRI"
   location         : "University of Wisconsin"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=grant+s+roberts"
+  googlescholar    : "https://scholar.google.com/citations?user=lQ8pPnEAAAAJ&hl=en&oi=sra"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Grant-Roberts"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/gsroberts1"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/grant-roberts-797973129/"
+  orcid            : "https://orcid.org/0000-0003-1472-4352"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -175,13 +175,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -209,10 +206,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _research
   - scope:
       path: ""
-      type: teaching
+      type: research
     values:
       layout: single
       author_profile: true
@@ -227,10 +224,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _cv
   - scope:
       path: ""
-      type: portfolio
+      type: cv
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _recognitions
+  - scope:
+      path: ""
+      type: recognitions
     values:
       layout: single
       author_profile: true
