@@ -7,12 +7,16 @@ author_profile: true
 
 I am going to post some of my research here in the very near future. But I am still working on figuring out Jekyll.
 
-TEST
+Projects
+-------
 
-DOUBLE TEST
+<nbsp>
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign ordered_pages = site.research | sort:"order_number" %}
+
+{% for post in ordered_pages %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
+
