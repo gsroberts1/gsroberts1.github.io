@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am going to post some of my research here in the very near future. But I am still working on figuring out Jekyll.
+Most of my work centralizes around developing tools to 
 
 Projects
 -------

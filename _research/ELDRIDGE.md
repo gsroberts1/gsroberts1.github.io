@@ -12,10 +12,13 @@ header:
   og_image: "research/ELDRIDGE.png"
 ---
 
-This is something about the NODDI project.
+Preterm Study
+
+Gating Characterization (Code)
 
 My contributions: 
 
+CODE: 
 Awards
 ======
 
