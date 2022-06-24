@@ -16,7 +16,7 @@ After graduation, he looks forward to continuing his career in MRI and data scie
 
 Skills and Interests
 ======
-Music-lover
+:saxophone: Music-lover
 Sand volleyball!
 Weekend disc golfer
 Avid bird-watcher
@@ -25,4 +25,5 @@ Runner/Biker/Hiker
 Midwest beer snob (#midwestbeersnobs)
 Wannabe fisherman
 Cat dad
+Budding foodie
 
