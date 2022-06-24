@@ -14,7 +14,11 @@ Previously, he obtained a bachelor’s degree in Radiological Science in 2014 at
 
 After graduation, he looks forward to continuing his career in MRI and data science in an industry position. Feel free to contact him with any questions or potential collaborations.
 
-Skills and Interests
+Skills
+======
+
+
+Interests
 ======
 - :saxophone: Music-lover
 - :sunglasses: Sand volleyball!
