@@ -7,15 +7,12 @@ collection: research
 type: "Current Projects"
 venue: "University of Wisconsin - Madison"
 location: "Madison, WI, USA"
-order_number: 3
+order_number: 4
 header: 
   og_image: "research/NODDI.png"
 ---
 
-This is something about the NODDI project.
-
-Awards
-======
+White matter (WM) microstructural alterations have been shown to occur in Alzheimer’s disease (AD) and may be partially mediated by cerebrovascular disease (CVD). The objective of this study is to use neurite orientation dispersion and density imaging (NODDI) to assess differences in neurite density (NDI) and its relationship to measures of CVD from 4D flow MRI in cognitively normal (CN) and AD subjects. NODDI and 4D flow MRI demonstrate significant differences in white matter neurite density (NDI) in cognitively normal and Alzheimer’s disease subjects, as well as correlations between cerebral blood flow and NDI in cognitively normal subjects.
 
 Abstracts
 ======
