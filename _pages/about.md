@@ -17,13 +17,12 @@ After graduation, he looks forward to continuing his career in MRI and data scie
 Skills and Interests
 ======
 - :saxophone: Music-lover
-- Sand volleyball!
-- Weekend disc golfer
-- Avid bird-watcher
-- Pool shark
-- Runner/Biker/Hiker
-- Midwest beer snob (#midwestbeersnobs)
-- Wannabe fisherman
-- Cat dad
-- Budding foodie
+- :sunglasses: Sand volleyball!
+- :golf: Weekend disc golfer
+- :bird: Avid bird-watcher
+- :8ball: Pool shark
+- :runner: :bicyclist: Runner/Biker
+- :fishing_pole_and_fish: Wannabe fisherman
+- :smiley_cat: Cat dad
+- :ramen: Budding foodie
 
