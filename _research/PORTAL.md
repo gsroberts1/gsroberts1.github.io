@@ -12,7 +12,11 @@ header:
   og_image: "research/PORTAL.png"
 ---
 
-This is something about the NODDI project.
+Portal 4D Flow MRI 
+Portal Review Paper
+Abdominal Review Paper
+Normal Portal Flow (Andrew)
+
 
 My contributions: 
 

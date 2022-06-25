@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-##### Grants and Scholarships :heavy_dollar_sign:
+### Grants and Scholarships :heavy_dollar_sign:
 * 2022 ISMRM Educational Stipend 
 * 2021 National Institute on Aging Predoctoral Fellowship ([F31AG071183](https://taggs.hhs.gov/Detail/AwardDetail?arg_AwardNum=F31AG071183&arg_ProgOfficeCode=102))
 * 2021 ISMRM Educational Stipend 
 * 2020 ISMRM Educational Stipend 
 * 2019 Vilas Travel Grant 
 
-##### Awards and Honors :trophy:
+### Awards and Honors :trophy:
 * 2022 MRM Cover Image ([Link](https://onlinelibrary.wiley.com/doi/epdf/10.1002/mrm.29203))
 * 2021 SMRA Panel Moderator - Flow Imaging Scientific Session 5
 * 2020 ASNR Certificate of Merit - Educational Exhibit

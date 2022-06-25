@@ -1,7 +1,7 @@
 ---
 title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference Oral Presentation"
 permalink: /talks/2014-03-01-talk-3
 venue: "Testing Institute of America 2014 Annual Conference"
 date: 2014-03-01
@@ -9,8 +9,6 @@ location: "Los Angeles, CA"
 ---
 
 Conference Presentations (Oral)
-MRI Alphabet Soup
-SMRA Power Pitch (Nantes)
 SMRA Talk (Virtual)
 ISMRM Talk (Vancouver)
 ISMRM Talk (London)
@@ -19,5 +17,4 @@ Internal Presentations
 Chronic mesenteric ischemia (MRI group)
 MR elastography (MRI group)
 NODDI-4D flow (MRI group)
-PWV Tool (Wieben Group)
 
