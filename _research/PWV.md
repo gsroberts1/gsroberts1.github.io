@@ -30,15 +30,15 @@ Collaborations: Ozioma Okonkwo Lab, Sarah Lose, Zach Bernhardt, Jennifer Fondako
 
 Abstracts
 ------
-## Oral Presentation
+### Oral Presentation
 
-## Poster Presentation
+### Poster Presentation
 
 Manuscripts
 ------
-## Submitted
+### Submitted
 
-## In-Preparation
+### In-Preparation
 
 Awards
 ------
