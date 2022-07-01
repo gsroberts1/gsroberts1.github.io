@@ -41,3 +41,4 @@ Manuscripts
 Awards
 ------
 * 2020 - ASNR Certificate of Merit; Venous Mapping of Vascular Malformations using Cranial 4D Flow MRI; ASNR 2020; Educational Exhibit.
+* 2022 - [MRM Cover Image](https://onlinelibrary.wiley.com/doi/epdf/10.1002/mrm.29203)

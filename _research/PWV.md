@@ -14,6 +14,7 @@ header:
 ---
 Background
 ------
+### Main Project
 The effect of aging and cardiovascular disease plays an important role in progressive arterial stiffening that can be observed in older adults. When arteries become stiffer and less compliant, they cannot absorb pulsatile energy (systolic pressure) generated from the heart. This ultimately puts stress on smaller arteries (capillaries) that are not well suited for dissipating this energy. This can cause damage to peripheral organs, like the brain, kidneys, eyes, and hear. To measure arterial stiffness, one biomarker that has recently emerged is pulse wave velocity (PWV). PWV indirectly assesses vessel stiffness by measuring how fast blood pressure pulsations travel through larger arteries; stiffer arteries lead to faster traveling pressure waves. This method has become the gold-standard for non-invasively assessing arterial stiffness and has proven to be an independent predictor of cardiovascular risk and mortality. Because larger, more elastic arteries have a more active role in absorbing pulse pressures, PWV is most often measured in the aorta and its immediate branches.
 
 ![](/images/research/PWV_3_pulse_pressure.jpg)
@@ -36,9 +37,12 @@ In March 2021, I was awarded a 2-year F31 fellowship through the NIA (F31AG07118
 
 ![](/images/research/PWV_5_F31.png)
 
+### PWV-QA Method
 We have also looked into alternative approaches to estimate pulse wave velocity. One interesting method, termed the [QA method](https://onlinelibrary.wiley.com/doi/10.1002/mrm.10100) presented by Vulliemoz et al, evaluates the change in vessel area in early systolic flow and area changes to estimate vessel stiffness (via the Bramwell-Hill equation) and thus PWV. Specifically, a flow-area plot is created using flow and area measurements obtained during the systolic time frames. A line is fit to this portion of the curve, where both flow and area are increasing, in which the slope is equivalent to the local aortic PWV. This method assumes no wave reflection, which suggests that the PWV-QA should be restricted to the proximal portion of the aorta where no wave reflections exist. Furthermore, since this method is sensitive to only systolic time frames, a representative sampling of points is required for accurate linear regression which requires very high temporal resolution (and is the subject of our 2022 ISMRM abstract). 
 
 ![](/images/research/PWV_4_QA.png)
+
+### Effect of Respiration on PWV
 
 ### Collaborations: 
 [Ozioma Okonkwo Lab](https://okonkwolab.medicine.wisc.edu/people/), [Waisman Brain Imaging](https://www.waisman.wisc.edu/brain-imaging/)

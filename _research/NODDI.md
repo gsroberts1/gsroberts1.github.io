@@ -18,7 +18,8 @@ White matter (WM) microstructural alterations have been shown to occur in Alzhei
 
 My contributions: 
 
-Collaborations: [Andrew Alexander Lab](https://www.waisman.wisc.edu/staff/alexander-andrew/), [Doug Dean III Lab](https://www.waisman.wisc.edu/staff/dean-iii-doug/)
+### Collaborations: 
+[Andrew Alexander Lab](https://www.waisman.wisc.edu/staff/alexander-andrew/), [Doug Dean III Lab](https://www.waisman.wisc.edu/staff/dean-iii-doug/)
 
 Abstracts
 ------
