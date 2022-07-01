@@ -12,15 +12,22 @@ header:
   og_image: "research/ELDRIDGE.png"
 ---
 
-Preterm Study
-
-Gating Characterization (Code)
-
+Background
+------
+### Preterm Study
 My contributions: 
 
-CODE: 
-Awards
-======
+### Gating Characterization (Code)
+
+Code
+------
 
 Abstracts
-======
+------
+### Poster Presentation
+* MacDonald, J. M., Roberts, G. S., & Wieben, O. ECG Characterization and Correction during Exercise Stress Imaging. Joint Annual Meeting ISMRM-ESMRMB; 2018 June 16; Paris, France.
+
+Manuscripts
+------
+### Accepted
+* Macdonald, J. A., Roberts, G. S., Corrado, P. A., Beshish, A. G., Barton, G. P., Goss, K. N., Eldridge, M. W., Francois, C. J., & Wieben, O. (2021). Irregular Right Heart Flow Dynamics in Children and Young Adults Born Preterm. Journal of Cardiovascular Magnetic Resonance, 10.1186/s12968-021-00816-2.

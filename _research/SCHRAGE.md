@@ -12,10 +12,17 @@ header:
   og_image: "research/SCHRAGE.png"
 ---
 
-This is something about the NODDI project.
+Background
+------
 
-Awards
-======
+My contributions: 
 
-Abstracts
-======
+Collaborations: 
+
+Code
+------
+
+Manuscripts
+------
+### In-Review
+* Carter, K. J., Ward, A. T., Kellawan, J. M., Harrell, J. W., Peltonen, G. L., Roberts, G. S., Al-Subu, A., Hagen, S. A., Serlin, R. C., Eldridge, M., Wieben, O., & Schrage, W. G. Reduced Resting Macrovascular and Microvascular Cerebral Blood Flow in Young Adults with Metabolic Syndrome: Exploring Mechanisms. Submitted to JCBFM.
