@@ -12,6 +12,7 @@ order_number: 1
 header: 
   og_image: "research/PWV.png"
 ---
+
 Background
 ------
 ### Main Project
@@ -33,16 +34,34 @@ More recently, MRI has been used to evaluate aortic PWV with the use of cardiac-
 
 However, this approach is still challenging because it requires high temporal resolution to resolve sometimes subtle waveform time shifts. Higher temporal resolutions increase the overall scan time, which is especially problematic because these exams are done while the subject is holding their breath. This is because the aorta can move during respiration which can result in image artifacts. However, in some subjects such as elderly, diseased, or cognitively-impaired individuals, long (or even short) breath-holds may be difficult or impossible. Developing high temporal resolution, free-breathing PWV methodologies would thus be ideal.
 
-In March 2021, I was awarded a 2-year F31 fellowship through the NIA (F31AG071183). This research project is dedicated towards developing and validating a free-breathing, radial 2DPC simultaneous multi-slice (SMS) sequence with local low rank reconstructions to generate high temporal resolution images for accurate aortic PWV measurements. In addition, a robust post-processing analysis platform has been developed for automated, and repeatable PWV measures to enable analysis in large cohort studies, several of which are currently underway at the Wisconsin Alzheimer’s Disease Research Center (ADRC). The new imaging protocol will be used in a pilot study consisting of an AD cohort and an age- and sex-matched control group to collectively assess systemic cardiovascular health, macrovascular, and microvascular dynamics in the brain for the first time. This knowledge will help elucidate the role that the vascular system plays in pathogenesis and progression of AD.
+In March 2021, I was awarded a 2-year F31 fellowship through the NIA ([F31AG071183](https://taggs.hhs.gov/Detail/AwardDetail?arg_AwardNum=F31AG071183&arg_ProgOfficeCode=102)). This research project is dedicated towards developing and validating a free-breathing, radial 2DPC simultaneous multi-slice (SMS) sequence with local low rank reconstructions to generate high temporal resolution images for accurate aortic PWV measurements. In addition, a robust post-processing analysis platform has been developed for automated, and repeatable PWV measures to enable analysis in large cohort studies, several of which are currently underway at the Wisconsin Alzheimer’s Disease Research Center (ADRC). The new imaging protocol will be used in a pilot study consisting of an AD cohort and an age- and sex-matched control group to collectively assess systemic cardiovascular health, macrovascular, and microvascular dynamics in the brain for the first time. This knowledge will help elucidate the role that the vascular system plays in pathogenesis and progression of AD.
 
 ![](/images/research/PWV_5_F31.png)
 
+Separately from the above project, we currently are involved in (and helped establish the MRI protocol for) the ongoing NIH-funded project Longitudinal Impact of Fitness and Exercise ([LIFE](https://taggs.hhs.gov/Detail/AwardDetail?arg_AwardNum=R01AG062167&arg_ProgOfficeCode=102)) study led by Dr. Ozioma Okonkwo. This study is designed to study the impact of physical activity and aerobic fitness on biomarkers of Alzheimer’s disease in midlife. A subaim of this work is to capture an individual’s global cardiovascular state by measuring PWV in the aorta. To do this, we perform: anatomical images for obtaining aortic distances, 2D cine bSSFP images to measure time-resolved aortic areas (PWV-QA method, see section below), Cartesian 2DPC (standard PWV method), and radial 2DPC (new PWV method). 
+* Free-breathing Anatomical 2D bSSFP
+  * Sagittal slices (higher resolution)
+  * Coronal slices
+  * Axial slices
+* Breath-hold 2D Cine bSSFP (~0:12 each, for PWV-QA measures)
+  * Axial slice in aortic arch (transects both ascending and descending aorta)
+  * Axial slice in abdominal aorta
+* Breath-hold Cartesian 2DPC (~0:12 each)
+  * Axial slice in aortic arch 
+  * Axial slice in abdominal aorta
+* Breath-hold Radial 2DPC (~2:00 each)
+  * Axial slice in aortic arch
+  * Axial slice in abdominal aorta
+
 ### PWV-QA Method
-We have also looked into alternative approaches to estimate pulse wave velocity. One interesting method, termed the [QA method](https://onlinelibrary.wiley.com/doi/10.1002/mrm.10100) presented by Vulliemoz et al, evaluates the change in vessel area in early systolic flow and area changes to estimate vessel stiffness (via the Bramwell-Hill equation) and thus PWV. Specifically, a flow-area plot is created using flow and area measurements obtained during the systolic time frames. A line is fit to this portion of the curve, where both flow and area are increasing, in which the slope is equivalent to the local aortic PWV. This method assumes no wave reflection, which suggests that the PWV-QA should be restricted to the proximal portion of the aorta where no wave reflections exist. Furthermore, since this method is sensitive to only systolic time frames, a representative sampling of points is required for accurate linear regression which requires very high temporal resolution (and is the subject of our 2022 ISMRM abstract). 
+We have also looked into alternative approaches to estimate pulse wave velocity. One interesting method, termed the [QA method](https://onlinelibrary.wiley.com/doi/10.1002/mrm.10100) presented by Vulliemoz et al, evaluates the change in vessel area in early systolic flow and area changes to estimate vessel stiffness (via the Bramwell-Hill equation) and thus PWV. Specifically, a flow-area plot is created using flow and area measurements obtained during the systolic time frames. A line is fit to this portion of the curve, where both flow and area are increasing, in which the slope is equivalent to the local aortic PWV. This method assumes no wave reflection, which suggests that the PWV-QA should be restricted to the proximal portion of the aorta where no wave reflections exist. Furthermore, since this method is sensitive to only systolic time frames, a representative sampling of points is required for accurate linear regression which requires very high temporal resolution (and is the subject of our 2022 ISMRM abstract). Additionally, in the method presented Vulliemoz, 2DPC magnitude images were segmented for area measurements. However, these images can be prone to [inflow-effect](https://mriquestions.com/time-of-flight-effects.html), which may adversely affect the ability to accurately segment the aorta. In our ISMRM abstract, we used cine bSSFP images to obtain area measures, which showed better delineation of the aorta boundary.
 
 ![](/images/research/PWV_4_QA.png)
 
 ### Effect of Respiration on PWV
+In a recent abstract submitted to ISMRM, we looked to see if there was an effect of respiration on PWV measurements. Interestingly, there has not been published work on this effect, aside from a [short abstract](https://journals.lww.com/jhypertension/Abstract/2010/06001/EFFECT_OF_RESPIRATION_ON_PULSE_WAVE_VELOCITY.404.aspx) looking at the effect of respiration on tonometry-based carotid-femoral PWV. This was done by performing respiratory gating on the free-breathing radial 2DPC scans in both the expiration states and inspiration states. PWV analysis was performed as usual for both inspiration-gated and expiration-gated datasets. We found that PWV measurements from inspiration were on average 10% lower relative to expiration. Our results were consistent with the findings from the pressure tonometry study. The physiological mechanisms for this are unclear but may be due to intrathoracic/arterial pressure changes, blood flow rate changes, or short-term hypoxia affecting vascular tone. 
+
+![](/images/research/PWV_6_respiration.png)
 
 ### Collaborations: 
 [Ozioma Okonkwo Lab](https://okonkwolab.medicine.wisc.edu/people/), [Waisman Brain Imaging](https://www.waisman.wisc.edu/brain-imaging/)
