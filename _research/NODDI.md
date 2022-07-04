@@ -20,8 +20,11 @@ While Alzheimer’s disease (AD) is typically considered to be a disease of gray
 
 In this study, we combine diffusion tensor imaging (DTI) and 4D flow MRI to measure white matter microstructure and intracranial hemodynamics. Specifically, we use neurite orientation dispersion and density imaging (NODDI) using multi-shell DTI data in order to analyze neurite density index (NDI), a surrogate measure for WM axonal density. Additionally, pulsatility index, carotid pulse wave velocity, and total cerebral blood flow were also measured. In our initial study, this was performed in 20 AD subjects and 41 cognitively normal (CN) age-matched individuals. However, future studies look to apply this to 136 subjects with PET imaging. 
 
+![](/images/research/NODDI_2_ndi.png)
+
 Using tract-based spatial statistics (TBSS) and a pre-labelled WM atlas, we showed that there were significant WM microstrctural differences in many tracts between cognitively normal and AD subjects (which has been shown in several other studies). More interesting, we used linear regression (adjusted for age and sex)) to show that altered WM microstructure was associated with lower total cerebral blood flow in *normal* individuals. However, this relationship was not shown in individuals with AD. Additionally, there were no correlations with vascular pulsatility or vessel stiffness and white matter microstructure.
 
+![](/images/research/NODDI_1_results.png)
 ### Collaborations: 
 [Andrew Alexander Lab](https://www.waisman.wisc.edu/staff/alexander-andrew/), [Doug Dean III Lab](https://www.waisman.wisc.edu/staff/dean-iii-doug/)
 
