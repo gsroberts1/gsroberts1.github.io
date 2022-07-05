@@ -14,10 +14,11 @@ header:
 
 Background
 ------
-This work originally started with [Michael Loecher](https://profiles.stanford.edu/michael-loecher) back in 2014.  
+This project originally started with one of Oliver Wieben's former students, Michael Loecher, back in 2014. He put in a significant amount of effort towards this project, including conception of the virtual injection idea, contributing a significant amount of code, and implementation in several clinical cases. This was included in his thesis but was never written as a dedicated paper.
+
+When my advisor Dr. Laura Eisenmenger joined UW-Madison in 2018, she expressed interest in revitalizing this project. 
 
 Streamlines are a particularly useful tool for visualizing 3D velocity fields, such as those generated from 4D flow MRI. In the brain, streamlines have been used for visualizing complex flow patterns in aneurysms, studying intracarotid plaques, and characterizing cerebrovascular malformations. However, both displacement artifacts (deterministic) and velocity noise (stochastic) inherently degrade the quality of streamlines. The purpose of this study was to try and improve 4D flow streamlines by integrating several correction methods and constraints to improve selective blood flow tracking and emulate “virtual injections”. 
-Code: github.com/gsroberts1/Virtual-Injection
 
 My contributions: 
 
