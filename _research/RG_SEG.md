@@ -21,6 +21,6 @@ This was the final project for the *MP574: Image Processing* taught by [Diego He
 Manuscripts
 ------
 ### Final Report
-[Report](/files/research/Region-Growing with Mumford-Shah Functional - Grant Roberts.pdf){: .btn--research}
-> Code can be found in the appendix of the final report.
+[Download](/files/research/Region-Growing with Mumford-Shah Functional - Grant Roberts.pdf){: .btn--research}
+Code can be found in the appendix of the final report.
 

@@ -21,7 +21,7 @@ This is the final project from 2020 for the *BMI567: Medical Image Analysis* tau
 Manuscripts
 ------
 ### Final Report
-[Report](/files/research/BMI567_GrantRoberts.pdf){: .btn--research}
+[Download](/files/research/BMI567_GrantRoberts.pdf){: .btn--research}
 
 Code
 ------
