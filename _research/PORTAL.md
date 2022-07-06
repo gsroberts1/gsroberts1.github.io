@@ -14,19 +14,23 @@ header:
 
 Background
 ------
-Since completing the CMI project, I have gained a lot of experience with Ensight, Mimics, etc. I have worked on project since then. 
+After completing the [chronic mesenteric ischemia](/_research/CMI.md) project, I have since been involved in several related projects due to my experience in using tools specific to abdominal 4D flow MRI, specifically [EnSight](https://www.ansys.com/products/fluids/ansys-ensight) and [Mimics](https://www.materialise.com/en/medical/mimics-innovation-suite/mimics), as well as image reconstruction. 
 
-### Portal 4D Flow MRI 
-### Portal Review Paper
-### Abdominal Review Paper
-### Normal Portal Flow (Andrew)
+### Portal and Abdominal Review Papers
+Several of our collaborators in the Radiology department, [Scott Reeder](https://radiology.wisc.edu/profile/scott-reeder-46/) and [Thekla Oechtering](https://radiology.wisc.edu/profile/thekla-oechtering-2323/), were invited to write several review papers on [Clinical Applications of 4D Flow MRI in the Portal Venous System](https://pubmed.ncbi.nlm.nih.gov/35082218/) and [Abdominal Applications of Quantitative 4D Flow MRI](https://pubmed.ncbi.nlm.nih.gov/34837521/). My primary role for these papers was to create Ensight figures for flow visualization. While this process was quite arduous, requiring semi-automated segmentation of the vasculature, generation of 2D cut-planes for analysis, flow quantification (if necessary), and generation of streamlines/pathlines, we ended up creating some really nice images. 
+
+### Normal Portal Vein Hemodynamics
+Quantifying normal blood flow is important for establishing reference blood flow ranges and is thus useful for identifying abnormal flow ranges caused by pathology. This is the idea behind the study, currently being led by Andrew Huang, where N=43 abdominal 4D flow scans from healthy subjects were analyzed to assess volumetric flow rates, peak velocities, vessel diameters, vorticity, and helicity in the portal vein (in a fasting state). My contributions to this study were assessing portal vein vorticity/helicity (along with 2 other readers), generating several figures, and analyzing 6 datasets independently. 
+
 ### Weight Loss Study
-Making config files for autorecon, helping generated figures for Alma
+As a subaim of a larger study evaluating liver structure/function after weight loss surgery, we are currently exploring the effect of weight loss on PV hemodynamics over the course of the regimen. In the early phases of this study, it was observed that image quality was highly degraded to due to radial streaking artifcats caused by subcutaneous fat. To address this, fat saturation, in combintation with iterative SENSE techniques, were applied to mitigate this artifact, resulting in usable 4D flow datasets for hemodynamic analysis.
 
-My contributions: 
+![](/images/research/PORTAL_1_fatsat.png)
+
+For this project, I helped design the parameters to be used in our offline, custom PCVIPR reconstruction. I wrote and installed configuration files on the GE scanner to allow for image reconstructions to be automatically performed and transferred to our data servers. Alma Spahic (advised by Laura Eisenmenger and Oliver Wieben) has been analyzing these datasets, with recent work submited to ISMRM and SMRA. 
 
 ### Collaborations: 
-[Scott Reeder Lab](https://qiml.radiology.wisc.edu/staff/reeder-scott/), [Alejandro Roldan CFD Lab](https://uwcvfd.engr.wisc.edu/), [Radius Medical Image Analysis](https://resources.research.wisc.edu/Core/Details/564), Thekla Oechtering, Andrew Huang
+[Scott Reeder Lab](https://qiml.radiology.wisc.edu/staff/reeder-scott/), [Alejandro Roldan CFD Lab](https://uwcvfd.engr.wisc.edu/), [Radius Medical Image Analysis](https://resources.research.wisc.edu/Core/Details/564), Thekla Oechtering, Andrew Huang, Alma Spahic
 
 Awards
 ------
