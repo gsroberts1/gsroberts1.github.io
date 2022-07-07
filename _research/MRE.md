@@ -14,9 +14,12 @@ header:
 
 Background
 ------
-MR elastography (MRE) is a special application of MRI that uses motion encoding (very similar to phase contrast MRI) to quantify tissue stiffness in vivo. Tissue stiffness can change throughout the course of a many disease processes, as seen in tumors and liver fibrosis. MR elastography allows for quantitative analysis of mechanical properties of tissues by producing stiffness maps. This is done by sensitizing motion encoding gradients to the motion of shear waves that are introduced into the body by an acoustic driver (essentially a subwoofer). We acquire multiple images at difference phases of the wave, called phase offsets, to show how the wave propagates in tissue. This phase offset data is used to produce the final stiffness. The images below show the equipment setup for brain MRE and the acquisition of multiple phase offset images. 
+MR elastography (MRE) is a special application of MRI that uses motion encoding (very similar to phase contrast MRI) to quantify tissue stiffness in vivo. Tissue stiffness can change throughout the course of a many disease processes, as seen in tumors and liver fibrosis. MR elastography allows for quantitative analysis of mechanical properties of tissues by producing stiffness maps. This is done by sensitizing motion encoding gradients to the motion of shear waves that are introduced into the body by an acoustic driver (essentially a subwoofer). 
 
 ![](/images/research/MRE_3_equipment.png)
+
+We acquire multiple images at difference phases of the wave, called phase offsets, to show how the wave propagates in tissue. This phase offset data is used to produce the final stiffness. The images below show the equipment setup for brain MRE and the acquisition of multiple phase offset images. 
+
 ![](/images/research/MRE_4_acquisition.PNG)
 
 In terms of actual clinical applications, MRE is primarily used in the liver to study liver disease (e.g. fibrosis and cirrhosis). One of the major benefits of this technique is that it can be used as a non-invasive diagnostic technique, compared to the gold standard biopsy which is invasive and often painful. The field of MRE has been pioneered by the [research group at the Mayo Clinic](https://www.mayo.edu/research/labs/advanced-medical-imaging-technology/overview) and has recently been applied to the brain to study brain tumors, multiple sclerosis, and even dementia. 

@@ -8,7 +8,7 @@ date: 2021-05-18
 location: "Virtual"
 ---
 ### Description
-This oral presentation was given at ISMRM on the work related to the [NODDI - 4D Flow study](https://gsroberts1.github.io/research/noddi) that is still ongoing. In this talk, I focus on the relationship between macrovascular flow and pulsatility and observed white matter microstructure in normal subjects and Alzheimer's disease subjects. 
+This oral presentation was given at ISMRM on the work related to the (ongoing) [NODDI - 4D Flow study](https://gsroberts1.github.io/research/noddi). In this talk, I focus on the relationship between macrovascular flow and pulsatility and observed white matter microstructure in normal subjects and Alzheimer's disease subjects. 
 
 ### Length
 5 minutes (+30 minute QA breakout session)
