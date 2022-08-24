@@ -26,6 +26,8 @@ Skills
 - Phantom development
 - Biostatistics
 - Clinical knowledge
+  - X-ray and CT technologist experience
+  - Anatomy, physiology, and pathology
 
 Interests
 ======
