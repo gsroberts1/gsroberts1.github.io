@@ -56,7 +56,7 @@ Abstracts
 
 Manuscripts
 ------
-### Submitted
+### Accepted
 * Roberts, G. S., Loecher, M. W., Johnson, K. M., Spahic, A., Turski, P. A., Eisenmenger, L. B., & Wieben, O. (2022). Virtual Injections Using 4D Flow MRI with Displacement Corrections and Constrained Probabilistic Streamlines. Magnetic Resonance in Medicine. 10.1002/mrm.29134
 
 Awards

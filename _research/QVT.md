@@ -52,4 +52,4 @@ Abstracts
 Manuscripts
 ------
 ### In-Preparation
-* Hoffman, C. A., Roberts, G. S., Berman, S. E., Eisenmenger, L. B., & Wieben, O. Automated Post-Processing of Cranial 4D Flow MRI. To Resubmit to Journal of Medical Imaging.
+* Roberts, G. S., Hoffman, C. A., , Berman, S. E., Eisenmenger, L. B., & Wieben, O. Automated Post-Processing of Cranial 4D Flow MRI. To Resubmit to Journal of Medical Imaging.
