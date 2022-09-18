@@ -16,8 +16,8 @@ After graduation, he looks forward to continuing his career in MRI and data scie
 Skills
 ======
 - Programming Languages
-  - Most experience: Matlab, R, Python, Bash, Git, Stata
-  - Some experience: C/C++, Java, Latex, HTML/CSS, Ruby
+  - Most experience: Matlab, R, Python, Bash, Git, C++, Stata
+  - Some experience: C, Java, Latex, HTML/CSS, Ruby
   - Currently learning: GE MRI pulse sequence programming (EPIC)
 - MRI reconstruction
 - Image post-processing
