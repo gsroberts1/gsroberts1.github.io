@@ -19,6 +19,8 @@ After completing the [chronic mesenteric ischemia](/research/CMI.md) project, I 
 ### Portal and Abdominal Review Papers
 Several of our collaborators in the Radiology department, [Scott Reeder](https://radiology.wisc.edu/profile/scott-reeder-46/) and [Thekla Oechtering](https://radiology.wisc.edu/profile/thekla-oechtering-2323/), were invited to write several review papers on [Clinical Applications of 4D Flow MRI in the Portal Venous System](https://pubmed.ncbi.nlm.nih.gov/35082218/) and [Abdominal Applications of Quantitative 4D Flow MRI](https://pubmed.ncbi.nlm.nih.gov/34837521/). My primary role for these papers was to create Ensight figures for flow visualization. While this process was quite arduous, requiring semi-automated segmentation of the vasculature, generation of 2D cut-planes for analysis, flow quantification (if necessary), and generation of streamlines/pathlines, we ended up creating some really nice images. 
 
+![](/images/research/ABDOMINAL.png)
+
 ### Normal Portal Vein Hemodynamics
 Quantifying normal blood flow is important for establishing reference blood flow ranges and is thus useful for identifying abnormal flow ranges caused by pathology. This is the idea behind the study currently being led by Andrew Huang, where N=43 abdominal 4D flow scans from healthy subjects were analyzed to assess volumetric flow rates, peak velocities, vessel diameters, vorticity, and helicity in the portal vein (in a fasting state). My contributions to this study were assessing portal vein vorticity/helicity (along with 2 other readers), generating several figures, and analyzing several datasets independently. 
 
