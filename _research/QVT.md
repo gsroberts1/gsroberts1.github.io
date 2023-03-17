@@ -52,4 +52,4 @@ Abstracts
 Manuscripts
 ------
 ### In-Preparation
-* Roberts, G. S., Hoffman, C. A., , Berman, S. E., Eisenmenger, L. B., & Wieben, O. Automated Post-Processing of Cranial 4D Flow MRI. To Resubmit to Journal of Medical Imaging.
+* Roberts, G. S., Hoffman, C. A.*, Rivera-Rivera, L. A., Berman, S. E., Eisenmenger, L. B., & Wieben, O (2023). Automated Hemodynamic Assessment for Cranial 4D Flow MRI. Magnetic Resonance Imaging. 10.1016/j.mri.2022.12.016. *Roberts and Hoffman contributed equally to this work. 

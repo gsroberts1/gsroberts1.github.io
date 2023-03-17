@@ -29,4 +29,4 @@ Code
 Manuscripts
 ------
 ### In Preparation
-* Carter, K. J., Ward, A. T., Kellawan, J. M., Harrell, J. W., Peltonen, G. L., Roberts, G. S., Al-Subu, A., Hagen, S. A., Serlin, R. C., Eldridge, M., Wieben, O., & Schrage, W. G. Reduced basal macrovascular and microvascular cerebral blood flow in young adults with metabolic syndrome: potential mechanisms. Submitted to J Appl Physiol.
+* Carter, K. J., Ward, A. T., Kellawan, J. M., Harrell, J. W., Peltonen, G. L., Roberts, G. S., Al-Subu, A., Hagen, S. A., Serlin, R. C., Eldridge, M., Wieben, O., & Schrage, W. G. Reduced basal macrovascular and microvascular cerebral blood flow in young adults with metabolic syndrome: potential mechanisms. Submitted to JCBFM.

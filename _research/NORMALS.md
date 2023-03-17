@@ -47,5 +47,5 @@ Abstracts
 Manuscripts
 ------
 ### In-Preparation
-* Roberts, G. S., Peret, A., Hoffman, C. A., Koscik, R. L., Jonaitis, E. M., Rivera-Rivera, L. A., Cody, K. A., Rowley, H. A., Johnson, S. C., Wieben, O., Johnson, K. M., & Eisenmenger, L. B. Normative Cerebral Blood Flow and Pulsatility in Cognitively Unimpaired Older Adults using 4D Flow MRI. To Submit to Radiology. 
+* Roberts, G. S., Peret, A., Hoffman, C. A., Koscik, R. L., Jonaitis, E. M., Rivera-Rivera, L. A., Cody, K. A., Rowley, H. A., Johnson, S. C., Wieben, O., Johnson, K. M., & Eisenmenger, L. B. Normative Cerebral Blood Flow and Pulsatility in Cognitively Unimpaired Older Adults using 4D Flow MRI. In Press with Radiology. 
 * Peret, A., Roberts, G. S., Hoffman, C. A., Koscik, R. L., Jonaitis, E. M., Rivera-Rivera, L. A., Cody, K. A., Rowley, H. A., Johnson, S. C., Wieben, O., Johnson, K. M., & Eisenmenger, L. B. 4D Flow Magnetic Resonance Imaging for the Study of Normal Cerebrovascular Aging in a Large Cohort of Cognitively Normal Older Adults. To submit to JAMA Neurology.
