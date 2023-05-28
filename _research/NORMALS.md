@@ -40,12 +40,18 @@ Future studies, led by Anthony Peret, will look to associate vascular risk facto
 Abstracts
 ------
 ### Oral Presentation
+* Spahic, A., Roberts, G. S., Peret, A., Koscik, R. L., Jonaitis, E. M., Hoffman, C. A., Rivera-Rivera, L. A., Cody, K. A., Rowley, H. A., Johnson, S. C., Wieben, O., Johnson, K. M., & Eisenmenger, L. B. Sex Differences Between Total Cerebral Blood Flow and Age-Related Changes in the Brain Using 4D Flow MRI. 2023 ISMRM and ISMRT Annual Meeting & Exhibition; 2023 June 3; Toronto, ON, Canada.
+* Rivera-Rivera, L. A., Roberts, G. S., Peret, A., Johnson, S. C., Wieben, O., Eisenmenger, L. B., & Johnson, K. M. Diurnal Changes in Cerebrovascular Dynamics Measured from 4D-Flow. ISMRM Workshop on Neurofluids: Anatomy, Physiology & Imaging. 2022 September 21.  
+* Rivera-Rivera, L. A., Roberts, G. S., Peret, A., Johnson, S. C., Wieben, O., Eisenmenger, L. B., & Johnson, K. M. Diurnal Changes in Cerebrovascular Dynamics Measured from 4D-Flow. 2023 ISMRM and ISMRT Annual Meeting & Exhibition; 2023 June 3; Toronto, ON, Canada.
+* Peret, A., Roberts, G. S., Hoffman, C. A., Rivera-Rivera, L. A., Cody, K. A., Rowley, H. A., Wieben, O., Johnson, S. C., Johnson, K. M., & Eisenmenger, L. B. 4D Flow MRI for the Study of Cerebrovascular Aging in a Large Cohort of Cognitively Normal Older Adults. ISMRM Workshop on Neurofluids: Anatomy, Physiology & Imaging. 2022 September 21.
 * Peret, A., Roberts, G. S., Hoffman, C. A., Rivera-Rivera, L. A., Cody, K. A., Rowley, H. A., Wieben, O., Johnson, S. C., Johnson, K. M., & Eisenmenger, L. B. 4D Flow Magnetic Resonance Imaging for the Study of Normal Cerebrovascular Aging in a Large Cohort of Cognitively Normal Older Adults. American Society of Functional Neuroradiology 15th Annual Meeting. 2022 August 27.
 * Roberts, G. S., Peret, A., Rivera-Rivera, L. A., Cody, K. A., Rowley, H. A., Wieben, O., Johnson, S. C., Johnson, K. M., & Eisenmenger, L. B. Defining Normative Cerebral Hemodynamics in Cognitively Healthy Older Adults with 4D Flow MRI. Joint Annual Meeting ISMRM-ESMRMB & SMRT 31st Annual Meeting. 2022 May 7.
 [Download](/files/research/Normative Flow and Pulsatility in Aging - ISMRM22 Abstract - FINAL.pdf){: .btn--research} 
 
 Manuscripts
 ------
-### In-Preparation
-* Roberts, G. S., Peret, A., Hoffman, C. A., Koscik, R. L., Jonaitis, E. M., Rivera-Rivera, L. A., Cody, K. A., Rowley, H. A., Johnson, S. C., Wieben, O., Johnson, K. M., & Eisenmenger, L. B. Normative Cerebral Blood Flow and Pulsatility in Cognitively Unimpaired Older Adults using 4D Flow MRI. In Press with Radiology. 
+### Accepted
+* Roberts, G. S., Peret, A., Koscik, R. L., Jonaitis, E. M., Hoffman, C. A., Rivera-Rivera, L. A., Cody, K. A., Rowley, H. A., Johnson, S. C., Wieben, O., Johnson, K. M., & Eisenmenger, L. B (2023). Normative Cerebral Hemodynamics in Middle-Aged and Older Adults using 4D Flow MRI: Initial Analysis of Vascular Aging. Radiology. 10.1148/radiol.222685.
+
+### In Preparation
 * Peret, A., Roberts, G. S., Hoffman, C. A., Koscik, R. L., Jonaitis, E. M., Rivera-Rivera, L. A., Cody, K. A., Rowley, H. A., Johnson, S. C., Wieben, O., Johnson, K. M., & Eisenmenger, L. B. 4D Flow Magnetic Resonance Imaging for the Study of Normal Cerebrovascular Aging in a Large Cohort of Cognitively Normal Older Adults. To submit to JAMA Neurology.

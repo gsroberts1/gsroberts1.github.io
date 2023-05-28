@@ -38,6 +38,7 @@ Awards
 ------
 ### Oral Presentation
 * Spahic, A., Oechtering, T. H., Roberts, G. S., Roldan-Alzate, A., Reeder, S. B., Wieben, O., & Johnson, K. M. Abdominal 4D Flow MRI in Obese Patients – A Pilot Study. Society for Magnetic Resonance Angiography (SMRA) 33nd Annual International Conference. 2021 September.
+* Huang, A. P., Roberts, G. S., Roldan-Alzate, A., Wieben, O., Reeder, S. B., & Oechtering, T. 4D Flow MRI Reference Values of the Portal Venous System. 2023 ISMRM and ISMRT Annual Meeting & Exhibition; 2023 June 3; Toronto, ON, Canada.
 
 ### Poster Presentation
 * Spahic, A., Roberts, G. S., Wolfson, T., Harris, D., Panagiotopoulos, N., Roldan-Alzate, A., Johnson, K. M., Wieben, O., Sirlin, C. B., Reeder, S. B., & Oechtering, T. H. Portal Venous 4D Flow MRI in Obese Patients Without Known Liver Disease Undergoing Weight Loss Surgery. Joint Annual Meeting ISMRM-ESMRMB & SMRT 31st Annual Meeting. 2022 May 7.
@@ -47,6 +48,4 @@ Manuscripts
 ### Accepted
 * Oechtering, T. H., Roberts, G. S., Panagiotopoulos, N., Wieben, O., Reeder, S.B., & Roldan-Alzate, A. (2022). Clinical Applications of 4D Flow MRI in the Portal Venous System. Magnetic Resonance in Medical Sciences. 10.2463/mrms.rev.2021-0105
 * Oechtering, T. H., Roberts, G. S., Panagiotopoulos, N., Wieben, O., Roldan-Alzate, A., & Reeder, S. B. (2021). Abdominal Applications of Quantitative 4D Flow MRI. Abdominal Radiology. 10.1007/s00261-021-03352-w. 
-### In-Preparation
-* Huang, A., Roberts, G. S., Reeder, S. B., & Oechtering, T. H. Reference Values for 4D Flow Magnetic Resonance Imaging of the Portal Venous System. Submitted to Abd. Radiol.
-
+* Huang, A., Roberts, G. S., Reeder, S. B., & Oechtering, T. H. (2023). Reference Values for 4D Flow Magnetic Resonance Imaging of the Portal Venous System. Abdominal Radiology. 10.1007/s00261-023-03892-3.

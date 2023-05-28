@@ -44,12 +44,15 @@ Abstracts
 ------
 ### Oral Presentation
 * Hoffman, C. A., Roberts, G. S., Berman, S., Eisenmenger, L. B., & Wieben, O. Towards Automated Cranial 4D Flow Cranial Analysis. Society for Magnetic Resonance Angiography (SMRA) 31st Annual International Conference; 2019 August 27; Nantes, France.
+* Jolicoeur, B. W., Rivera-Rivera, L. A., Roberts, G. S., Eisenmenger, L. B., & Johnson, K. M. Denoising 4D-Flow using Self-Supervised Deep Learning and Its Effect on Test-Retest Reproducibility. 2023 ISMRM and ISMRT Annual Meeting & Exhibition; 2023 June 3; Toronto, ON, Canada.
 
 ### Poster Presentation
 * Hoffman, C. A., Roberts, G. S., Berman, S., Eisenmenger, L. B., & Wieben, O. Automated Cranial 4D Flow MRI Analysis. Alzheimer's Disease and Related Disorders Research Day 2020; 2020 March 5; Madison, WI, USA.
 * Roberts, G. S., Johnson, K. M., Hoffman, C. A., Eisenmenger, L. B., & Wieben, O. Automating Background Phase Correction in Cranial 4D Flow MRI. Society for Magnetic Resonance Angiography (SMRA) 31st Annual International Conference; 2019 August 27; Nantes, France.
+* Jen, M., Nishant, V., Cheng, K. P., Roberts, G. S., Laluzerne, M., Frank, J., Williams, J., Ludwig, K., & Johnson, K. M. Evaluation of Relationship Between Trigeminal Nerve Stimulation and Hemodynamics using 4D-Flow MRI: A Pilot Study in Swine Model. 2023 ISMRM and ISMRT Annual Meeting & Exhibition; 2023 June 3; Toronto, ON, Canada.
+
 
 Manuscripts
 ------
-### In-Preparation
+### Accepted
 * Roberts, G. S., Hoffman, C. A.*, Rivera-Rivera, L. A., Berman, S. E., Eisenmenger, L. B., & Wieben, O (2023). Automated Hemodynamic Assessment for Cranial 4D Flow MRI. Magnetic Resonance Imaging. 10.1016/j.mri.2022.12.016. *Roberts and Hoffman contributed equally to this work. 

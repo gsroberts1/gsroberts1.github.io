@@ -39,5 +39,5 @@ Abstracts
 Manuscripts
 ------
 ### In-Preparation
-* Roberts, G. S., Peret, A., Rivera-Rivera, L. A., Moody, J. F., Dean III, D. C., Alexander, A. L., Johnson, K. M., Johnson, S. C., Wieben, O., & Eisenmenger, L. B. Assessment of Cerebrovascular Disease and White Matter Neurite Density in Alzheimer’s Disease. To Submit to Journal of Alzheimer’s Disease.
+* Spahic, A., Roberts, G. S., Peret, A., Rivera-Rivera, L. A., Moody, J. F., Dean III, D. C., Alexander, A. L., Johnson, K. M., Johnson, S. C., Wieben, O., & Eisenmenger, L. B. Assessment of Cerebrovascular Disease and White Matter Neurite Density in Alzheimer’s Disease. To Submit to Journal of Alzheimer’s Disease.
 
